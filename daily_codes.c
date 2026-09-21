@@ -12,5 +12,4 @@ int main() {
 
     return 0;
 }
-gcc daily_codes.c -o sum_program
-./sum_program
+
